@@ -3,6 +3,16 @@
 <section xml:id="sec-function-notation" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Section Title</title>
 
-  <p> Text of section. I will put more words.</p>
-
+  <exercise>
+    <title>Negative Numbers and Exponents</title>
+    <introduction>
+      <p>
+        This is an introduction,
+        providing articulation between the MOM problem and the contents of the text.
+        For example,
+        you might cross-reference a result or example given previosly. (HTML Note: The resizer for the knowl is not functioning yet.)
+      </p>
+    </introduction>
+    <myopenmath problem="2887" />
+  </exercise>
 </section>

@@ -13,7 +13,7 @@
 
     <!-- Include chapters -->
 
-    <xi.include href="./chap-changing.xml"/>
+    <xi.include href="./chap-changing.ptx"/>
 
 
     <!-- Include backmatter -->
